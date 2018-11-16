@@ -5,3 +5,5 @@ Now time to pull
 success
 
 New double trig1
+
+Private trig: not to be pulled
